@@ -1,4 +1,4 @@
-# SQL-Internship-Task-4
+# Aggregate Functions and Grouping
 
 This task demonstrates the use of SQL Aggregate functions such as COUNT, SUM, AVG, MAX, and MIN 
 in combination with GROUP BY and HAVING to summarize and filter grouped data from a E-commerce database.
